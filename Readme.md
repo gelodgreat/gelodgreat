@@ -1,5 +1,9 @@
 Hi, I'm **Angelo**, a Software Developer that is passionate on building something great. 
 
+[![Linkedin: Christian Angelo](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianangelo/)](https://www.linkedin.com/in/christianangelo/)
+![GitHub followers](https://img.shields.io/github/followers/gelodgreat?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bit.ly/angeloumali-developer)](https://bit.ly/angeloumali-developer)
+
 Over 3 years of experience in Software Development in Web and Mobile Development, Over 2 years of experience in Project Management. I do coding on my weekends to test and try new technologies also enhance my craft and have fun coding. Building things that innovates and helps alot of people is one of my hobbies.Learning is a forever journey.
 
 > ✅ In - depth knowledge of Javascript, React, NodeJS, Express, React Native
