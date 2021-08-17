@@ -23,7 +23,7 @@ Hi, I'm **Angelo**, a Software Developer that is passionate on building somethin
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-Over 3 years of experience in Software Development in Web and Mobile Development, Over 2 years of experience in Project Management. I do coding on my weekends to test and try new technologies also enhance my craft and have fun coding. Building things that innovates and helps alot of people is one of my hobbies.Learning is a forever journey.
+Over 4 years of experience in Software Development in Web and Mobile Development, Over 2 years of experience in Project Management. I do coding on my weekends to test and try new technologies also enhance my craft and have fun coding. Building things that innovates and helps alot of people is one of my hobbies.Learning is a forever journey.
 
 > ✅ In - depth knowledge of Javascript, React, NodeJS, Express, React Native
 > ✅ Extensive experience with Object - Oriented Design and Implementation
