@@ -45,10 +45,10 @@ Technical Skill
 > ✅ Deployment:NGINX, Docker, Kubernetes
 
 Integrations:
-✅ Shopify \n
-✅ Google Maps
-✅ Facebook SDK and FBAds
-✅ Firebase SDK
+> ✅ Shopify
+> ✅ Google Maps
+> ✅ Facebook SDK and FBAds
+> ✅ Firebase SDK
 
 Project Management
 > ✅ Trello
