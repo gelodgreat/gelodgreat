@@ -43,7 +43,13 @@ Technical Skill
 > ⭐✅ Code Management: Git
 > ✅ Server: Azure, Amazon, Linux
 > ✅ Deployment:NGINX, Docker, Kubernetes
-> 
+
+Integrations:
+✅ Shopify
+✅ Google Maps
+✅ Facebook SDK and FBAds
+✅ Firebase SDK
+
 Project Management
 > ✅ Trello
 > ✅ Teams
