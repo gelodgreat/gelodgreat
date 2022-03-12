@@ -34,19 +34,21 @@ Over 4 years of experience in Software Development in Web and Mobile Development
 > ✅ Team Player
 > 
 Technical Skill
-> ✅ Frontend:React, CSS, jQuery
+> ⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift
+> ⭐✅ Frontend: React, CSS, jQuery
 > ✅ Backend:NodeJS, Express
-> ✅ Web Languages:Javascript, Typescript
-> ✅ Mobile:React Native, Android Java, iOS Swift
-> ✅ API: REST API
+> ⭐✅ Web Languages: Javascript, ⭐Typescript
+> ⭐✅ API: REST, GraphQL
 > ✅ Database:MongoDB, MySQL, Firebase, MSSQL
-> ✅ Code Management:Git
-> ✅ Server:Azure, Amazon, Linux
+> ⭐✅ Code Management: Git
+> ✅ Server: Azure, Amazon, Linux
 > ✅ Deployment:NGINX, Docker, Kubernetes
 > 
 Project Management
 > ✅ Trello
 > ✅ Teams
+> ✅ Jira
+> ✅ Github Issues
 
 ![](https://komarev.com/ghpvc/?username=gelodgret)
 
