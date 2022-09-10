@@ -35,14 +35,14 @@ Over 5 years of experience in Software Development in Web and Mobile Development
 > 
 Technical Skill
 > ⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift
-> ⭐✅ Frontend: React, CSS, jQuery
+> ⭐✅ Frontend: React, CSS, jQuery, styled-components
 > ✅ Backend:NodeJS, Express
 > ⭐✅ Web Languages: Javascript, ⭐Typescript
 > ⭐✅ API: REST, GraphQL
-> ✅ Database:MongoDB, MySQL, Firebase, MSSQL
+> ✅ Database:MongoDB, MySQL, Firebase
 > ⭐✅ Code Management: Git
-> ✅ Server: Azure, Amazon, Linux
-> ✅ Deployment:NGINX, Docker, Kubernetes
+> ✅ Server: Amazon, Firebase, Linux, Google Cloud
+> ✅ Deployment:Bitrise, Fastlane, Appsync, NGINX, Docker
 
 Integrations:
 > ✅ Shopify
