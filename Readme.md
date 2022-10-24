@@ -33,7 +33,7 @@ Portfolio: angelodev.firebaseapp.com\
 ✅ Strong problem-solving and analytical skills\
 ✅ Fast and Efficient\
 ✅ Team Player\
-\
+
 
 Technical Skill\
 ⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift\
@@ -45,21 +45,21 @@ Technical Skill\
 ⭐✅ Code Management: Git\
 ✅ Server: Azure, Amazon, Linux\
 ✅ Deployment:NGINX, Docker, Kubernetes\
-\
+
 
 Integrations:\
 ✅ Shopify\
 ✅ Google Maps\
 ✅ Facebook SDK and FBAds\
 ✅ Firebase SDK\
-\
+
 
 Project Management\
 ✅ Trello\
 ✅ Teams\
 ✅ Jira\
 ✅ Github Issues\
-\
+
 
 
 ![](https://komarev.com/ghpvc/?username=gelodgreat)
