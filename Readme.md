@@ -23,38 +23,39 @@ Hi, I'm **Angelo**, a Software Developer that is passionate on building somethin
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-Over 5 years of experience in Software Development in Web and Mobile Development, Over 2 years of experience in Project Management. I do coding on my weekends to test and try new technologies also enhance my craft and have fun coding. Building things that innovates and helps alot of people is one of my hobbies.Learning is a forever journey.
+Analytically driven Software Developer with over 5 years of experience focusing on Mobile and Web Development using React and React Native. Adept at communication and engaging clients by identifying issues and streamlining steps to effectively resolve technical issues. Highly dedicated to producing quality application and software development services.
 
-> ✅ In - depth knowledge of Javascript, React, NodeJS, Express, React Native
-> ✅ Extensive experience with Object - Oriented Design and Implementation
-> ✅ Extensive experience in API Development and Integration
-> ✅ Ability to function independently
-> ✅ Strong problem solving and analytical skills
-> ✅ Fast and Efficient
-> ✅ Team Player
-> 
+Portfolio: angelodev.firebaseapp.com
+✅ In-depth knowledge of Javascript, React, NodeJS, Express, React Native
+✅ Extensive experience with Object-Oriented Design and Implementation
+✅ Extensive experience in API Development and Integration
+✅ Ability to function independently
+✅ Strong problem-solving and analytical skills
+✅ Fast and Efficient
+✅ Team Player
+
 Technical Skill
-> ⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift
-> ⭐✅ Frontend: React, CSS, jQuery, styled-components
-> ✅ Backend:NodeJS, Express
-> ⭐✅ Web Languages: Javascript, ⭐Typescript
-> ⭐✅ API: REST, GraphQL
-> ✅ Database:MongoDB, MySQL, Firebase
-> ⭐✅ Code Management: Git
-> ✅ Server: Amazon, Firebase, Linux, Google Cloud
-> ✅ Deployment:Bitrise, Fastlane, Appsync, NGINX, Docker
+⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift
+⭐✅ Frontend: React, CSS, jQuery
+✅ Backend: NodeJS, Express
+⭐✅ Web Languages: Javascript, ⭐Typescript
+⭐✅ API: REST, GraphQL
+✅ Database:MongoDB, MySQL, Firebase, MSSQL
+⭐✅ Code Management: Git
+✅ Server: Azure, Amazon, Linux
+✅ Deployment:NGINX, Docker, Kubernetes
 
 Integrations:
-> ✅ Shopify
-> ✅ Google Maps
-> ✅ Facebook SDK and FBAds
-> ✅ Firebase SDK
+✅ Shopify
+✅ Google Maps
+✅ Facebook SDK and FBAds
+✅ Firebase SDK
 
 Project Management
-> ✅ Trello
-> ✅ Teams
-> ✅ Jira
-> ✅ Github Issues
+✅ Trello
+✅ Teams
+✅ Jira
+✅ Github Issues
 
 ![](https://komarev.com/ghpvc/?username=gelodgret)
 
