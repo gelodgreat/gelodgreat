@@ -26,7 +26,7 @@ Hi, I'm **Angelo**, a Software Developer that is passionate on building somethin
 Analytically driven Software Developer with over 5 years of experience focusing on Mobile and Web Development using React and React Native. Adept at communication and engaging clients by identifying issues and streamlining steps to effectively resolve technical issues. Highly dedicated to producing quality application and software development services.
 
 Portfolio: angelodev.firebaseapp.com
-✅ In-depth knowledge of Javascript, React, NodeJS, Express, React Native
+✅ In-depth knowledge of Javascript, React, NodeJS, Express, React Native\
 ✅ Extensive experience with Object-Oriented Design and Implementation
 ✅ Extensive experience in API Development and Integration
 ✅ Ability to function independently
