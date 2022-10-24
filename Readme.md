@@ -24,7 +24,7 @@ Hi, I'm **Angelo**, a Software Developer that is passionate on building somethin
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 Analytically driven Software Developer with over 5 years of experience focusing on Mobile and Web Development using React and React Native. Adept at communication and engaging clients by identifying issues and streamlining steps to effectively resolve technical issues. Highly dedicated to producing quality application and software development services.
-
+\
 Portfolio: angelodev.firebaseapp.com\
 ✅ In-depth knowledge of Javascript, React, NodeJS, Express, React Native\
 ✅ Extensive experience with Object-Oriented Design and Implementation\
@@ -34,7 +34,7 @@ Portfolio: angelodev.firebaseapp.com\
 ✅ Fast and Efficient\
 ✅ Team Player\
 \
-\
+
 Technical Skill\
 ⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift\
 ⭐✅ Frontend: React, CSS, jQuery\
@@ -46,21 +46,21 @@ Technical Skill\
 ✅ Server: Azure, Amazon, Linux\
 ✅ Deployment:NGINX, Docker, Kubernetes\
 \
-\
+
 Integrations:\
 ✅ Shopify\
 ✅ Google Maps\
 ✅ Facebook SDK and FBAds\
 ✅ Firebase SDK\
 \
-\
+
 Project Management\
 ✅ Trello\
 ✅ Teams\
 ✅ Jira\
 ✅ Github Issues\
 \
-\
+
 
 ![](https://komarev.com/ghpvc/?username=gelodgreat)
 
