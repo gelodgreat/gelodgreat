@@ -33,7 +33,7 @@ Portfolio: angelodev.firebaseapp.com\
 ✅ Ability to function independently\
 ✅ Strong problem-solving and analytical skills\
 ✅ Fast and Efficient\
-✅ Team Player\
+✅ Team Player
 
 
 Technical Skill\
@@ -42,24 +42,24 @@ Technical Skill\
 ✅ Backend: NodeJS, Express\
 ⭐✅ Web Languages: Javascript, ⭐Typescript\
 ⭐✅ API: REST, GraphQL\
-✅ Database:MongoDB, MySQL, Firebase, MSSQL\
+✅ Database:MongoDB, MySQL, Firebase, MSSQL, NoSQL\
 ⭐✅ Code Management: Git\
 ✅ Server: Azure, Amazon, Linux\
-✅ Deployment:NGINX, Docker, Kubernetes\
+✅ Deployment: NGINX, Docker, Kubernetes
 
 
 Integrations:\
 ✅ Shopify\
 ✅ Google Maps\
 ✅ Facebook SDK and FBAds\
-✅ Firebase SDK\
+✅ Firebase SDK
 
 
 Project Management\
 ✅ Trello\
 ✅ Teams\
 ✅ Jira\
-✅ Github Issues\
+✅ Github Issues
 
 
 
