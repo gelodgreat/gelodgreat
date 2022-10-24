@@ -33,7 +33,8 @@ Portfolio: angelodev.firebaseapp.com\
 ✅ Strong problem-solving and analytical skills\
 ✅ Fast and Efficient\
 ✅ Team Player\
-\\
+\
+\
 Technical Skill\
 ⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift\
 ⭐✅ Frontend: React, CSS, jQuery\
@@ -44,21 +45,24 @@ Technical Skill\
 ⭐✅ Code Management: Git\
 ✅ Server: Azure, Amazon, Linux\
 ✅ Deployment:NGINX, Docker, Kubernetes\
-\\
-Integrations:
-✅ Shopify
-✅ Google Maps
-✅ Facebook SDK and FBAds
-✅ Firebase SDK
+\
+\
+Integrations:\
+✅ Shopify\
+✅ Google Maps\
+✅ Facebook SDK and FBAds\
+✅ Firebase SDK\
+\
+\
+Project Management\
+✅ Trello\
+✅ Teams\
+✅ Jira\
+✅ Github Issues\
+\
+\
 
-Project Management
-✅ Trello
-✅ Teams
-✅ Jira
-✅ Github Issues
-
-![](https://komarev.com/ghpvc/?username=gelodgret)
-
+![](https://komarev.com/ghpvc/?username=gelodgreat)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelodgreat&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
