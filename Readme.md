@@ -62,6 +62,18 @@ Project Management\
 ✅ Github Issues
 
 <!--START_SECTION:waka-->
+
+```text
+From: 04 December 2022 - To: 05 December 2022
+
+Total Time: 12 mins
+
+TypeScript   5 mins          ██████████▓░░░░░░░░░░░░░░   42.21 %
+SCSS         3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.58 %
+Bash         2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=gelodgreat)
