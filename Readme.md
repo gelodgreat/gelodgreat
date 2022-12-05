@@ -61,7 +61,7 @@ Project Management\
 ✅ Jira\
 ✅ Github Issues
 
-
+<a href="https://app.daily.dev/gelodgreat"><img src="https://api.daily.dev/devcards/cb79cea36be14e5ea4241739b06a27d3.png?r=j49" width="400" alt="Angelo's Dev Card"/></a>
 
 ![](https://komarev.com/ghpvc/?username=gelodgreat)
 
