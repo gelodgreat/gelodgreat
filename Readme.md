@@ -81,5 +81,5 @@ Other        0 secs          █▓░░░░░░░░░░░░░░░
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelodgreat&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelodgreat&layout=compact&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://app.daily.dev/gelodgreat"><img src="https://api.daily.dev/devcards/cb79cea36be14e5ea4241739b06a27d3.png?r=j49" width="400" alt="Angelo's Dev Card"/></a>
+cb79cea36be14e5ea4241739b06a27d3
+<a href="https://app.daily.dev/gelodgreat"><img src="https://api.daily.dev/devcards/devcard.png?r=oww" width="400" alt="Angelo's Dev Card"/></a>
