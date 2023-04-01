@@ -71,12 +71,12 @@ Project Management\
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 29 March 2023
+From: 04 December 2022 - To: 30 March 2023
 
-Total Time: 390 hrs 27 mins
+Total Time: 394 hrs 40 mins
 
-TypeScript      290 hrs 48 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.48 %
-Other           29 hrs          ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.43 %
+TypeScript      294 hrs         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.49 %
+Other           29 hrs 11 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.40 %
 ```
 
 <!--END_SECTION:waka-->
