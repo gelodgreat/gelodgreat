@@ -1,11 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=gelodgreat)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelodgreat&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://app.daily.dev/gelodgreat"><img src="https://github.com/gelodgreat/gelodgreat/blob/master/devcard.svg" width="400" alt="Angelo's Dev Card"/></a>
 
-Hi, I'm **Angelo**, a Software Developer that is passionate on building something great. 
+Hi, I'm **Angelo**, a Software Developer passionate about building something great. 
 
 [![Linkedin: angelo](https://img.shields.io/badge/-angelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianangelo/)](https://www.linkedin.com/in/christianangelo/)
 ![GitHub followers](https://img.shields.io/github/followers/gelodgreat?label=Follow&style=social)
@@ -67,6 +65,10 @@ Project Management\
 ✅ Teams\
 ✅ Jira\
 ✅ Github Issues
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelodgreat&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
