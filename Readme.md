@@ -66,10 +66,6 @@ Project Management\
 ✅ Jira\
 ✅ Github Issues
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelodgreat&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -88,3 +84,4 @@ XML               34 hrs 44 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelodgreat&layout=compact&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelodgreat&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
