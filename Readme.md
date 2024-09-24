@@ -69,7 +69,7 @@ Project Management\
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2022 - To: 21 September 2024
+From: 04 December 2022 - To: 22 September 2024
 
 Total Time: 1,317 hrs 6 mins
 
