@@ -30,7 +30,9 @@ Hi, I'm **Angelo**, a Software Developer passionate about building something gre
 
 Analytically driven Mobile Applications Developer with a proven track record of publishing applications on both Google Play Store and Apple Appstore in 7 years of experience focusing on Mobile and Web Development using React and React Native.
 \
+\
 Developed and Released more than 300+ applications in both the Google Play Store and Apple App Store that focus on multiple industries such as e-commerce, social media, and many more. 
+\
 \
 Adept at communication and engaging clients by identifying issues and streamlining steps to resolve technical issues effectively. Highly dedicated to producing quality application and software development services.
 \
