@@ -29,9 +29,11 @@ Hi, I'm **Angelo**, a Software Developer passionate about building something gre
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 Analytically driven mobile applications developer with a proven track record of developing and publishing applications on Google Play Store and Apple Appstore. I have 7 years of experience in mobile and web development using React and React Native.
-\\
+\
+\
 Developed and Released more than 300+ applications in both the Google Play Store and Apple App Store that focus on multiple industries such as e-commerce, social media, and many more. 
-\\
+\
+\
 Adept at communication and engaging clients by identifying issues and streamlining steps to resolve technical issues effectively. Highly dedicated to producing quality application and software development services.
 \
 \
