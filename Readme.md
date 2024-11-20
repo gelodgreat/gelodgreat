@@ -38,7 +38,7 @@ Adept at communication and engaging clients by identifying issues and streamlini
 \
 \
 Portfolio: ([Angelo Portfolio](https://angelodev.web.app/))\
-New Portolio: ([v2 Portfolio](https://angeloumali.vercel.app/))\
+New Portolio: ([v2 Portfolio](https://angeloumali.vercel.app/))
 
 ✅ In-depth knowledge of Javascript, React, NodeJS, Express, React Native\
 ✅ Extensive experience with Object-Oriented Design and Implementation\
