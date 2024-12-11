@@ -36,7 +36,7 @@ Developed and released 300+ applications across various industries, including e-
 \
 I excel at communicating with clients to identify issues, streamline solutions, and effectively resolve technical challenges. My dedication to delivering quality applications and software services is at the core of everything I do.
 \
-\
+
 
 New Portolio: ([v2 Portfolio](https://angeloumali.vercel.app/))
 
