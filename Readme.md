@@ -28,16 +28,16 @@ Hi, I'm **Angelo**, a Software Developer passionate about building something gre
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-Analytically driven mobile applications developer with a proven track record of developing and publishing applications on Google Play Store and Apple Appstore. I have 7 years of experience in mobile and web development using React and React Native.
+Analytically driven Mobile Applications Developer with a proven track record of designing, developing, and publishing applications on the Google Play Store and Apple App Store. I have 8+ years of experience in mobile and web development, specializing in React and React Native.
 \
 \
-Developed and Released more than 300+ applications in both the Google Play Store and Apple App Store that focus on multiple industries such as e-commerce, social media, and many more. 
+Developed and released 300+ applications across various industries, including e-commerce, social media, and more.
 \
 \
-Adept at communication and engaging clients by identifying issues and streamlining steps to resolve technical issues effectively. Highly dedicated to producing quality application and software development services.
+I excel at communicating with clients to identify issues, streamline solutions, and effectively resolve technical challenges. My dedication to delivering quality applications and software services is at the core of everything I do.
 \
 \
-Portfolio: ([Angelo Portfolio](https://angelodev.web.app/))\
+
 New Portolio: ([v2 Portfolio](https://angeloumali.vercel.app/))
 
 ✅ In-depth knowledge of Javascript, React, NodeJS, Express, React Native\
