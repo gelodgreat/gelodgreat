@@ -36,7 +36,7 @@ Developed and released 300+ applications across various industries, including e-
 \
 I excel at communicating with clients to identify issues, streamline solutions, and effectively resolve technical challenges. My dedication to delivering quality applications and software services is at the core of everything I do.
 
-v2 Portolio: ([https://zkidzdev.com/](https://zkidzdev.com/))
+Portolio: ([https://zkidzdev.com/](https://zkidzdev.com/))
 
 ✅ In-depth knowledge of Javascript, React, NodeJS, Express, React Native\
 ✅ Extensive experience with Object-Oriented Design and Implementation\
