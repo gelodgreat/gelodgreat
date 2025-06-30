@@ -303,10 +303,11 @@ XML               41 hrs 18 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-### ⏰ Coding Activity Heatmap
-<div align="center">
-
+<!-- 
+### ⏰ Coding Activity Heatmap (WakaTime)
+Once WakaTime is configured, uncomment the line below:
 [![Angelo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gelodgreat&theme=tokyonight&hide_border=true)](https://wakatime.com/@gelodgreat)
+-->
 
 </div>
 
