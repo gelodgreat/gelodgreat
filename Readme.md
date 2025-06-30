@@ -9,11 +9,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gelodgreat)
 
 ### 💼 **Available For**
-- 🏢 **Full-time Opportunities**: Senior/Lead Developer roles
-- 💼 **Contract Work**: Short-term and long-term projects  
-- 🚀 **Consulting**: Technical architecture and code reviews
-- 🤝 **Collaborations**: Open source and innovative projects
-- 🎓 **Mentoring**: Helping developers grow their skills
+
+<div align="center">
+
+**🏢 Full-time Opportunities** • **💼 Contract Work** • **🚀 Consulting** • **🤝 Collaborations** • **🎓 Mentoring**
+
+*Senior/Lead Developer roles • Short-term and long-term projects • Technical architecture and code reviews • Open source and innovative projects • Helping developers grow their skills*
+
+</div>
 
 ### 🌟 **Let's Build Something Amazing Together!**
 
@@ -247,33 +250,33 @@ XML               41 hrs 18 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### 🔥 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelodgreat&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelodgreat&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelodgreat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelodgreat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ### ⚡ GitHub Streak & Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gelodgreat&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gelodgreat&theme=tokyonight&hide_border=true"/>
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gelodgreat&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=58A6FF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gelodgreat&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gelodgreat&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gelodgreat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
 ### 💡 Profile Summary
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gelodgreat&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gelodgreat&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelodgreat&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelodgreat&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelodgreat&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelodgreat&theme=tokyonight" width="48%"/>
 </div>
 
 ### 🎯 Coding Stats Summary
@@ -301,11 +304,19 @@ XML               41 hrs 18 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ### ⏰ Coding Activity Heatmap
-[![Angelo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gelodgreat&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://wakatime.com/@gelodgreat)
+<div align="center">
+
+[![Angelo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gelodgreat&theme=tokyonight&hide_border=true)](https://wakatime.com/@gelodgreat)
+
+</div>
 
 ### 🌐 Profile Views & Visitor Badge
-![](https://komarev.com/ghpvc/?username=gelodgreat&style=for-the-badge&color=58A6FF)
-![GitHub User's stars](https://img.shields.io/github/stars/gelodgreat?style=for-the-badge&logo=github&logoColor=white&color=58A6FF)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=gelodgreat&style=for-the-badge&color=7c3aed)
+![GitHub User's stars](https://img.shields.io/github/stars/gelodgreat?style=for-the-badge&logo=github&logoColor=white&color=7c3aed)
+
+</div>
 
 </div>
 
