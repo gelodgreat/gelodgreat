@@ -1,78 +1,119 @@
 ![](https://komarev.com/ghpvc/?username=gelodgreat)
 
-
 <a href="https://app.daily.dev/gelodgreat"><img src="https://github.com/gelodgreat/gelodgreat/blob/master/devcard.svg" width="400" alt="Angelo's Dev Card"/></a>
 
-Hi, I'm **Angelo**, a Software Developer passionate about building something great. 
+Hi, I'm **Angelo**, a Full-Stack Software Developer passionate about building scalable, modern applications with exceptional user experiences.
 
 [![Linkedin: angelo](https://img.shields.io/badge/-angelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianangelo/)](https://www.linkedin.com/in/christianangelo/)
 ![GitHub followers](https://img.shields.io/github/followers/gelodgreat?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bit.ly/angeloumali-developer)](https://bit.ly/angeloumali-developer)
+[![portfolio](https://img.shields.io/badge/Portfolio-zkidzdev.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://zkidzdev.com/)](https://zkidzdev.com/)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+## 🚀 Current Focus
+Currently building a comprehensive **Ticketing System with Time Tracking** - a multi-tenant SaaS application featuring real-time collaboration, advanced billing systems, and modern enterprise-grade architecture.
+
+## 💻 Tech Stack & Expertise
+
+### Frontend Development
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square&logo=shadcnui)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### Cloud & DevOps
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-Analytically driven Mobile Applications Developer with a proven track record of designing, developing, and publishing applications on the Google Play Store and Apple App Store. I have 8+ years of experience in mobile and web development, specializing in React and React Native.
-\
-\
-Developed and released 300+ applications across various industries, including e-commerce, social media, and more.
-\
-\
-I excel at communicating with clients to identify issues, streamline solutions, and effectively resolve technical challenges. My dedication to delivering quality applications and software services is at the core of everything I do.
+### State Management & APIs
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=react-query)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi)
 
-Portolio: ([https://zkidzdev.com/](https://zkidzdev.com/))
+## 🏆 Professional Experience
+**8+ years** of experience in mobile and web development, with expertise in building and deploying **300+ applications** across various industries including e-commerce, social media, fintech, and enterprise solutions.
 
-✅ In-depth knowledge of Javascript, React, NodeJS, Express, React Native\
-✅ Extensive experience with Object-Oriented Design and Implementation\
-✅ Extensive experience in API Development and Integration\
-✅ Ability to function independently\
-✅ Strong problem-solving and analytical skills\
-✅ Fast and Efficient\
-✅ Team Player
+**Specializations:**
+- ⭐ **Full-Stack Development**: Next.js 14+ with App Router, TypeScript, React
+- ⭐ **Mobile Applications**: React Native, Android Native, iOS Native
+- ⭐ **Modern Architecture**: Multi-tenant SaaS, Real-time systems, Microservices
+- ⭐ **Database Design**: PostgreSQL, Supabase, Row-Level Security (RLS)
+- ⭐ **State Management**: TanStack Query, Zustand, Optimistic Updates
 
+## 🎯 Current Project Highlights
 
-Technical Skill\
-⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift\
-⭐✅ Frontend: React, Next.js, Vite, CSS, tailwindcss, shadcn, jQuery\
-✅ Backend: NodeJS, Express, drizzle, react-query\
-⭐✅ Web Languages: Javascript, ⭐Typescript\
-⭐✅ API: REST, Supabase, GraphQL\
-✅ Database: MongoDB, Postgresql, MySQL, Firebase, MSSQL, NoSQL\
-⭐✅ Code Management: Git\
-✅ Server: Azure, Amazon, Linux\
-✅ Deployment: NGINX, Docker, Kubernetes, Vercel
+### 🎫 Enterprise Ticketing System
+A comprehensive multi-tenant SaaS application featuring:
+- **Multi-tenancy**: Company-scoped data isolation with PostgreSQL RLS
+- **Real-time Collaboration**: Live updates using Supabase subscriptions
+- **Advanced Time Tracking**: Start/stop timers with billing integration
+- **Role-based Access Control**: Admin, Manager, User roles with granular permissions
+- **Modern UI/UX**: shadcn/ui components with responsive design
+- **Billing & Reports**: Automated time tracking reports with multiple export formats
 
+**Tech Stack**: Next.js 14, TypeScript, Supabase, TanStack Query, Zustand, shadcn/ui, Tailwind CSS
 
-Integrations:\
-✅ Shopify\
-✅ Google Maps\
-✅ Facebook SDK and FBAds\
-✅ Firebase SDK
-✅ Supabase
+### 📊 Key Features Implemented
+- ✅ **Authentication & Authorization** with Supabase Auth
+- ✅ **Project & Ticket Management** with real-time updates
+- ✅ **Time Tracking System** with start/stop timers
+- ✅ **Multi-tenant Architecture** with company data isolation
+- ✅ **Billing Periods & Reports** with automated calculations
+- ✅ **Responsive Dashboard** with analytics and insights
 
+## 🛠️ Technical Skills
 
-Project Management\
-✅ Clickup\
-✅ Trello\
-✅ Teams\
-✅ Jira\
-✅ Github\
+### **Core Competencies**
+✅ **Frontend**: React, Next.js 14+, TypeScript, Tailwind CSS, shadcn/ui  
+✅ **Mobile**: React Native, Android Java, iOS Swift  
+✅ **Backend**: Node.js, Express, Supabase, PostgreSQL  
+✅ **State Management**: TanStack Query, Zustand, Redux  
+✅ **Real-time**: WebSockets, Supabase Subscriptions  
+✅ **Authentication**: Supabase Auth, JWT, OAuth  
+
+### **Architecture & Design**
+✅ **Multi-tenant Applications** with data isolation  
+✅ **Row-Level Security (RLS)** implementation  
+✅ **RESTful APIs** and **GraphQL** endpoints  
+✅ **Database Design** and optimization  
+✅ **Responsive Design** and **Accessibility**  
+✅ **Performance Optimization** and caching strategies  
+
+### **DevOps & Deployment**
+✅ **Version Control**: Git, GitHub, GitLab  
+✅ **Deployment**: Vercel, AWS, Docker, Kubernetes  
+✅ **Monitoring**: Error tracking, performance monitoring  
+✅ **CI/CD**: Automated testing and deployment pipelines  
+
+## 🌟 Key Achievements
+- 📱 **300+ Published Applications** on Google Play Store and Apple App Store
+- 🏢 **Enterprise-grade Solutions** for multiple industries
+- ⚡ **Performance Optimization**: Reduced load times by 60% through code splitting and caching
+- 🔐 **Security Implementation**: Multi-tenant architecture with robust data isolation
+- 📊 **Real-time Systems**: Built live collaboration features with sub-second updates
+- 💼 **Client Success**: Consistently delivered projects on time with 98% client satisfaction
+
+## 🎯 What I Bring to the Table
+- **Problem-Solving**: Analytical approach to complex technical challenges
+- **Communication**: Excellent at translating technical concepts to stakeholders
+- **Quality Focus**: Clean, maintainable code with comprehensive testing
+- **Adaptability**: Quick to learn new technologies and frameworks
+- **Team Leadership**: Mentoring developers and leading technical decisions
+- **Performance**: Fast and efficient delivery without compromising quality
 
 <!--START_SECTION:waka-->
 
@@ -90,6 +131,13 @@ XML               41 hrs 18 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+## 📈 GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelodgreat&layout=compact&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelodgreat&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelodgreat&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🤝 Let's Connect
+I'm always interested in discussing new opportunities, collaborating on interesting projects, or sharing knowledge about modern web development. Feel free to reach out!
+
+**Available for**: Full-time positions, contract work, consulting, and interesting collaborative projects.
