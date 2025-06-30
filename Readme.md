@@ -22,8 +22,6 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=gelodgreat)
-
 <a href="https://app.daily.dev/gelodgreat"><img src="https://github.com/gelodgreat/gelodgreat/blob/master/devcard.svg" width="400" alt="Angelo's Dev Card"/></a>
 
 Hi, I'm **Angelo**, a Full-Stack Software Developer passionate about building scalable, modern applications with exceptional user experiences.
