@@ -49,14 +49,14 @@ Portolio: ([https://zkidzdev.com/](https://zkidzdev.com/))
 
 Technical Skill\
 ⭐✅ Mobile: ⭐React Native, Android Java, iOS Swift\
-⭐✅ Frontend: React, Next.js, Vite, CSS, jQuery\
-✅ Backend: NodeJS, Express, react-query\
+⭐✅ Frontend: React, Next.js, Vite, CSS, tailwindcss, shadcn, jQuery\
+✅ Backend: NodeJS, Express, drizzle, react-query\
 ⭐✅ Web Languages: Javascript, ⭐Typescript\
 ⭐✅ API: REST, Supabase, GraphQL\
 ✅ Database: MongoDB, Postgresql, MySQL, Firebase, MSSQL, NoSQL\
 ⭐✅ Code Management: Git\
 ✅ Server: Azure, Amazon, Linux\
-✅ Deployment: NGINX, Docker, Kubernetes
+✅ Deployment: NGINX, Docker, Kubernetes, Vercel
 
 
 Integrations:\
@@ -64,13 +64,15 @@ Integrations:\
 ✅ Google Maps\
 ✅ Facebook SDK and FBAds\
 ✅ Firebase SDK
+✅ Supabase
 
 
 Project Management\
+✅ Clickup\
 ✅ Trello\
 ✅ Teams\
 ✅ Jira\
-✅ Github Issues
+✅ Github\
 
 <!--START_SECTION:waka-->
 
