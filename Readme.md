@@ -314,8 +314,8 @@ Once WakaTime is configured, uncomment the line below:
 ### 🌐 Profile Views & Visitor Badge
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=gelodgreat&style=for-the-badge&color=7c3aed)
-![GitHub User's stars](https://img.shields.io/github/stars/gelodgreat?style=for-the-badge&logo=github&logoColor=white&color=7c3aed)
+<img src="https://komarev.com/ghpvc/?username=gelodgreat&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
+<img src="https://img.shields.io/github/stars/gelodgreat?style=for-the-badge&logo=github&logoColor=white&color=7c3aed" alt="GitHub Stars"/>
 
 </div>
 
