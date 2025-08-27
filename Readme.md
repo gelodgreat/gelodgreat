@@ -233,13 +233,13 @@ Currently building a comprehensive **Ticketing System with Time Tracking** - a m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2022 - To: 24 August 2025
+From: 04 December 2022 - To: 25 August 2025
 
-Total Time: 2,370 hrs 16 mins
+Total Time: 2,372 hrs 16 mins
 
-TypeScript        1,730 hrs 16 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.00 %
+TypeScript        1,731 hrs 54 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.01 %
 JSON              168 hrs 34 mins ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.11 %
-Other             113 hrs 19 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.78 %
+Other             113 hrs 23 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.78 %
 Groovy            67 hrs 6 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.83 %
 XML               43 hrs 7 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.82 %
 ```
