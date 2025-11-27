@@ -185,7 +185,7 @@ Currently building a comprehensive **Ticketing System with Time Tracking** - a m
 - **👥 Users**: Serving **147K+ monthly active users** across platforms
 - **🏢 Businesses**: **1,000+ eCommerce businesses** powered by my applications
 - **⚡ Performance**: **95+ Lighthouse scores** average across projects
-- **🌍 Global Reach**: Apps used across **20+ countries** (AU, NZ, US, Canada, Philippines)
+- **🌍 Global Reach**: Apps used across **20+ countries** (Australia, New Zealand, United States, Canada, The Philippines)
 - **💎 Quality**: **98% client satisfaction** rate with 5-star testimonials
 - **📊 Growth**: **23% user growth increase** through feature implementations
 - **🔄 Efficiency**: **60-80% deployment time reduction** through CI/CD automation
