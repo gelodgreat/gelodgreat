@@ -24,7 +24,7 @@
 
 <a href="https://app.daily.dev/gelodgreat"><img src="https://github.com/gelodgreat/gelodgreat/blob/master/devcard.svg" width="400" alt="Angelo's Dev Card"/></a>
 
-Hi, I'm **Angelo**, a Full-Stack Software Developer passionate about building scalable, modern applications with exceptional user experiences.
+Hi, I'm **Christian Angelo**, a Full-Stack Software Developer passionate about building scalable, modern applications with exceptional user experiences.
 
 [![Linkedin: angelo](https://img.shields.io/badge/-angelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianangelo/)](https://www.linkedin.com/in/christianangelo/)
 ![GitHub followers](https://img.shields.io/github/followers/gelodgreat?label=Follow&style=social)
