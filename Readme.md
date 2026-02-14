@@ -233,7 +233,7 @@ Currently building a comprehensive **Ticketing System with Time Tracking** - a m
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2022 - To: 11 February 2026
+From: 04 December 2022 - To: 12 February 2026
 
 Total Time: 2,769 hrs 43 mins
 
