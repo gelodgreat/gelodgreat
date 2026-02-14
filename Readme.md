@@ -95,7 +95,7 @@ Currently building a comprehensive **Ticketing System with Time Tracking** - a m
 
 </div>
 
-**🎯 Portfolio Showcase**: [angelo.zkidzdev.com](https://zkidzdev.com/)- Featuring 300+ co-developed applications
+**🎯 Portfolio Showcase**: [angelo.zkidzdev.com](https://angelo.zkidzdev.com/)- Featuring 300+ co-developed applications
 
 #### 🌟 **Published Applications from angelo.zkidzdev.com:**
 
