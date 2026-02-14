@@ -29,7 +29,7 @@ Hi, I'm **Christian Angelo**, a Full-Stack Software Developer passionate about b
 [![Linkedin: angelo](https://img.shields.io/badge/-angelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianangelo/)](https://www.linkedin.com/in/christianangelo/)
 ![GitHub followers](https://img.shields.io/github/followers/gelodgreat?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bit.ly/angeloumali-developer)](https://bit.ly/angeloumali-developer)
-[![portfolio](https://img.shields.io/badge/Portfolio-zkidzdev.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://zkidzdev.com/)](https://zkidzdev.com/)
+[![portfolio](https://img.shields.io/badge/Portfolio-zkidzdev.com-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://angelo.zkidzdev.com/)](https://angelo.zkidzdev.com/)
 
 ## 🚀 Current Focus
 Currently building a comprehensive **Ticketing System with Time Tracking** - a multi-tenant SaaS application featuring real-time collaboration, advanced billing systems, and modern enterprise-grade architecture.
@@ -95,9 +95,9 @@ Currently building a comprehensive **Ticketing System with Time Tracking** - a m
 
 </div>
 
-**🎯 Portfolio Showcase**: [zkidzdev.com](https://zkidzdev.com/) - Featuring 300+ co-developed applications
+**🎯 Portfolio Showcase**: [[zkidzdev.com](https://zkidzdev.com/)](http://angelo.zkidzdev.com/) - Featuring 300+ co-developed applications
 
-#### 🌟 **Published Applications from zkidzdev.com:**
+#### 🌟 **Published Applications from angelo.zkidzdev.com:**
 
 <table>
 <tr>
