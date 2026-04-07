@@ -112,12 +112,12 @@ AI-driven finance app with multi-currency support, offline-first architecture, a
 - AI-powered expense tracker with multi-currency & offline support
 - Full-stack SaaS with web dashboard and mobile app
 - **Tech**: React Native, Next.js, Supabase, AI/ML
-- 🌐 [clearspent.zkidzdev.com](https://clearspent.zkidzdev.com)
+- 🌐 [clearspent.com](https://clearspent.com)
 
 </td>
 <td width="50%">
 
-**🦷 ToothieCare**
+**🦷 CrownOS**
 
 - Dental clinic management with real-time chat & charting
 - Multi-tenant architecture with RLS
@@ -216,7 +216,7 @@ AI-driven finance app with multi-currency support, offline-first architecture, a
 </tr>
 </table>
 
-🎯 **Full portfolio**: [angelo.zkidzdev.com](https://angelo.zkidzdev.com/) — Featuring 300+ co-developed applications
+🎯 **Full portfolio**: [theangeloumali.com](https://theangeloumali.com/) — Featuring 300+ co-developed applications
 
 ---
 
