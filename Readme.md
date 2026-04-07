@@ -87,7 +87,7 @@ AI-driven finance app with multi-currency support, offline-first architecture, a
 
 | Period         | Role                     | Company                   | Location        |
 | -------------- | ------------------------ | ------------------------- | --------------- |
-| 2020 – Present | Senior Software Engineer | **ZKidz Dev**             | Remote / Global |
+| 2020 – Present | Senior Software Engineer | **ZKidz Dev LLC**         | Remote / Global |
 | 2022 – 2024    | Senior Software Engineer | **Blackpepper**           | Auckland, NZ    |
 | 2020 – 2022    | Senior Software Engineer | **StationFive / Adaca**   | Sydney, AU      |
 | 2017 – 2020    | Software Engineer & Lead | **Trends & Technologies** | Manila, PH      |
@@ -309,10 +309,11 @@ Bash              61 hrs 31 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 📬 Connect
 
-- **Email**: [angelo@zkidzdev.com](mailto:angelo@zkidzdev.com)
-- **LinkedIn**: [linkedin.com/in/christianangelo](https://linkedin.com/in/christianangelo)
-- **GitHub**: [github.com/gelodgreat](https://github.com/gelodgreat)
-- **Portfolio**: [angelo.zkidzdev.com](https://angelo.zkidzdev.com)
+- **Email**: [angelo@theangeloumali.com](mailto:angelo@theangeloumali.com)
+- **LinkedIn**: [linkedin.com/in/theangeloumali](https://linkedin.com/in/theangeloumali)
+- **GitHub**: [github.com/theangeloumali](https://github.com/theangeloumali)
+- **Website**: [zkidzdev.com](https://zkidzdev.com)
+- **Portfolio**: [theangeloumali.com](https://theangeloumali.com)
 
 ---
 
